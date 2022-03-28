@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_items_text_size">10sp</dimen>
+    <dimen name="edit_items_text_size">15sp</dimen>
+    <dimen name="buttons_text_size">10sp</dimen>
+</resources>

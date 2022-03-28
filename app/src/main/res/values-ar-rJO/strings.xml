@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قائمة الأصناف، الكميات والأسعار</string>
+    <string name="btn_insert">"اضافة "</string>
+    <string name="btn_update">تعديل</string>
+    <string name="btn_delete">حذف</string>
+    <string name="enter_item_name">أدخل اسم الصنف</string>
+    <string name="enter_item_description">أدخل وصف الصنف</string>
+    <string name="enter_item_quantity">أدخل كمية الصنف</string>
+    <string name="enter_item_selling_price">أدخل سعر بيع الصنف</string>
+    <string name="display_id">رقم الصنف</string>
+    <string name="display_item_name">إسم الصنف</string>
+    <string name="display_item_description">وصف الصنف</string>
+    <string name="display_item_quantity">كمية الصنف</string>
+    <string name="display_item_selling_price">سعر بيع الصنف</string>
+    <string name="btn_display">أظهر السجل الأول</string>
+    <string name="btn_next">أظهر السجل التالي</string>
+    <string name="btn_previous">أظهر السجل السابق</string>
+    <string name="error_not_found">خطأ: غير موجود</string>
+    <string name="item_name">اسم الصنف</string>
+    <string name="item_description">وصف الصنف</string>
+    <string name="item_id">رقم الصنف</string>
+    <string name="item_quantity">كمية الصنف</string>
+    <string name="item_selling_price">سعر بيع الصنف</string>
+    <string name="btn_delete_hint">الحذف للسجل الأخير فقط</string>
+    <string name="alert_title">تحذير</string>
+    <string name="alert_message">هل تريد أن تحذف هذا السجل ؟</string>
+    <string name="yes_button">نعم</string>
+    <string name="no_button">لا</string>
+</resources>

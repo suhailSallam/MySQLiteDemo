@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Items List, Quantities And price</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="enter_item_name">Enter Item Name</string>
+    <string name="enter_item_description">Enter Item Description</string>
+    <string name="enter_item_quantity">Enter Item Quantity</string>
+    <string name="enter_item_selling_price">Enter Item Selling Price</string>
+    <string name="display_item_name">Display Item Name</string>
+    <string name="display_item_description">Display Item Description</string>
+    <string name="display_item_quantity">Display Item Quantity</string>
+    <string name="display_item_selling_price">Display Item Selling Price</string>
+    <string name="btn_display">Show first record</string>
+    <string name="btn_next">Show next record</string>
+    <string name="btn_previous">Show previous record</string>
+    <string name="error_not_found">Error Not Found</string>
+    <string name="item_name">Item Name:</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_id">Item ID</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="item_selling_price">Item selling price</string>
+    <string name="btn_delete_hint">Delete is for last record only</string>
+    <string name="alert_title">Warning </string>
+    <string name="alert_message">Are you sure you want to delete this record?!</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="display_id">Item ID</string>
+</resources>
